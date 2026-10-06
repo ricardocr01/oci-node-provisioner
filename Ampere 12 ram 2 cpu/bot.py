@@ -88,7 +88,7 @@ boot_volume_size_in_gbs = 50
 # 120 attempts = approximately 2 hours
 # 360 attempts = approximately 6 hours
 #
-total_attempts = 60
+total_attempts = 600
 
 # One attempt every 60 seconds
 retry_seconds = 60
